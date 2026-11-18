@@ -10,7 +10,7 @@ FIAP · Global Solution 2026.2 · CitizenTech · Engenharia de Software, 2º ano
 | Campo | |
 |---|---|
 | **Nome** | Água em Casa |
-| **Cidade e bairro** | São Paulo |
+| **Cidade** | São Paulo |
 | **Cidadão beneficiado** | Famílias de São Paulo, principalmente em bairros altos e casas com caixa d'água pequena, que ficam sem água de madrugada.  |
 | **Problema em uma frase** | Desde agosto de 2025 a Sabesp reduz a pressão da água à noite (hoje das 22h às 6h), e a família não sabe se a caixa d'água vai durar até a pressão voltar: só descobre quando a torneira seca. |
 | **Como funciona** | Um sensor na tampa da caixa mede o nível. O sistema calcula quanto a família gastou na última hora e quantas horas a água ainda dura. Se ela não dura até as 6h, o celular avisa a família, em linguagem simples, para economizar a tempo. |
