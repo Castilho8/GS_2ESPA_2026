@@ -16,7 +16,7 @@ FIAP · Global Solution 2026.2 · CitizenTech · Engenharia de Software, 2º ano
 | **Como funciona** | Um sensor na tampa da caixa mede o nível. O sistema calcula quanto a família gastou na última hora e quantas horas a água ainda dura. Se ela não dura até as 6h, o celular avisa a família, em linguagem simples, para economizar a tempo. |
 | **O que cada parte faz** | **Sensor** (ESP32 + HC-SR04): mede a distância até a água e acende um LED verde, amarelo ou vermelho. **Python:** calcula o nível, o gasto por hora, as horas restantes e o aviso. **Página web:** mostra o aviso para a família, com cor e texto. **Banco de dados:** guarda o histórico de leituras e alertas. |
 | **Link do repositório** | https://github.com/Castilho8/GS_2ESPA_2026 |
-| **Indicador de impacto** | **% de noites em que a família foi avisada pelo menos 1 hora antes de a caixa esvaziar**, e **% de noites em que a caixa secou**. Na simulação do notebook, este caiu de 8,3% para 2,3%. |
+| **Indicador de impacto** | **Aviso a tempo:** em 3 de cada 4 noites em que a água quase acabou (74%), a família foi avisada pelo menos 1 hora antes. **Menos noites sem água:** a caixa ficou vazia antes das 6h em 1 de cada 12 noites sem o sistema (8,3%) e em só 1 de cada 43 com o aviso (2,3%). (dados simulados) |
 | **ODS conectados** | **11, 10 e 13** (explicação abaixo) |
 
 ### ODS: como o projeto contribui
