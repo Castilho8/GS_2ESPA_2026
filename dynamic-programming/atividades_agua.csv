@@ -1,0 +1,12 @@
+grupo,atividade,opcao,litros,prioridade,fonte
+galao,Encher galão para beber e cozinhar amanhã,encher 10 L,10,9,Definido pelo projeto (volume do galão)
+banho_1,Banho do morador 1,banho rápido (5 min; registro fechado ao ensaboar),45,6,Sabesp (citado por SíndicoNet)
+banho_1,Banho do morador 1,banho normal (15 min),135,6,Sabesp (citado por Serasa e SíndicoNet)
+banho_2,Banho do morador 2,banho rápido (5 min; registro fechado ao ensaboar),45,6,Sabesp (citado por SíndicoNet)
+banho_2,Banho do morador 2,banho normal (15 min),135,6,Sabesp (citado por Serasa e SíndicoNet)
+banho_3,Banho do morador 3,banho rápido (5 min; registro fechado ao ensaboar),45,6,Sabesp (citado por SíndicoNet)
+banho_3,Banho do morador 3,banho normal (15 min),135,6,Sabesp (citado por Serasa e SíndicoNet)
+louca,Lavar a louça do jantar,de molho e enxágue rápido,20,3,Sabesp (citado pela Gazeta SP)
+louca,Lavar a louça do jantar,torneira meio aberta (15 min),117,3,Sabesp (citado por SíndicoNet)
+maquina,Máquina de lavar roupa,ciclo de 5 kg,135,2,TCM-SP (material Uso racional da água)
+calcada,Lavar a calçada,mangueira (5 min),90,1,TCM-SP (material Uso racional da água)
