@@ -1,0 +1,21 @@
+casa_id,bairro,altitude,capacidade_litros,altura_caixa_cm,moradores
+C01,Bairro A,alta,500,58.0,4
+C02,Bairro A,alta,1000,80.0,3
+C03,Bairro A,alta,500,58.0,4
+C04,Bairro A,alta,1000,80.0,2
+C05,Bairro B,alta,1000,80.0,2
+C06,Bairro B,alta,1000,80.0,5
+C07,Bairro B,alta,1000,80.0,4
+C08,Bairro B,alta,1000,80.0,5
+C09,Bairro C,média,1000,80.0,3
+C10,Bairro C,média,500,58.0,2
+C11,Bairro C,média,1000,80.0,3
+C12,Bairro C,média,1000,80.0,1
+C13,Bairro D,média,1000,80.0,3
+C14,Bairro D,média,500,58.0,3
+C15,Bairro D,média,1000,80.0,2
+C16,Bairro D,média,500,58.0,5
+C17,Bairro E,baixa,1000,80.0,4
+C18,Bairro E,baixa,500,58.0,6
+C19,Bairro E,baixa,1000,80.0,3
+C20,Bairro E,baixa,1000,80.0,3
